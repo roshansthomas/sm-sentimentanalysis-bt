@@ -75,7 +75,8 @@ In this lab we
 - deployed the ML model using SageMaker Hosting services and invoked the Endpoint to understand the sentiment of the sentences.
 
 #### Input
-```json
+
+```
 sentences = [
     "I love this product. I would order it again",
     "I am not sure if I like this product. I probably do."
@@ -103,9 +104,9 @@ sentences = [
 ]
 ```
 
-In the above example:
-```I love this product. I would order it again``` evaluated to a ```__label__3``` or a **Positive** sentiment with a 95.55% probability.
-and 
+In the above example:<br/>
+```I love this product. I would order it again``` evaluated to a ```__label__3``` or a **Positive** sentiment with a 95.55% probability<br/>
+and <br/>
 ```I am not sure if I like this product. I probably do.``` evaluated to a ```__label__2``` or a **Neutral** sentiment with a 90.04% probability..
 
 ### Cleanup
@@ -124,7 +125,8 @@ Follow the steps below to perform a cleanup and prevent accumulating usage charg
     ![](images/deleteapp.png)
 4.  After the apps have been deleted, click on **Edit** on the _Details_ section within the **User Details** screen.
     ![](images/userdetailsedit.png)
-5. Then click on **Delete User** to delete the default user ``aiml-innovate-2022``. **Note:** If there are other users please delete these to be able to delete the SageMaker Domain.
+5. Then click on **Delete User** to delete the default user ``aiml-innovate-2022``. <br/>
+**Note:** If there are other users please delete these to be able to delete the SageMaker Domain.
     ![](images/deleteuser.png)
 6. Once back on the SageMaker Studio screen, click on **Delete Domain** to delete the domain created to host the SageMaker Studio.
     ![](images/deletedomain.png)
