@@ -12,8 +12,9 @@
  4. [Setup](https://github.com/roshansthomas/sm-sentimentanalysis-bt#setup)
  5. [SageMaker Studio UI Overview](https://github.com/roshansthomas/sm-sentimentanalysis-bt#sagemaker-studio-ui-overview)
  6. [JupyterLab Notebook](https://github.com/roshansthomas/sm-sentimentanalysis-bt#jupyterlab-notebook)
- 7. [Cleanup](https://github.com/roshansthomas/sm-sentimentanalysis-bt#cleanup)
- 8. [Survey](https://github.com/roshansthomas/sm-sentimentanalysis-bt#survey)
+ 7. [Conclusion](https://github.com/roshansthomas/sm-sentimentanalysis-bt#conclusion)
+ 8. [Cleanup](https://github.com/roshansthomas/sm-sentimentanalysis-bt#cleanup)
+ 9. [Survey](https://github.com/roshansthomas/sm-sentimentanalysis-bt#survey)
 
 ### Introduction
 
