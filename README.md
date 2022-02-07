@@ -113,8 +113,11 @@ Follow the steps below to perform a cleanup and prevent accumulating usage charg
 1. On the Left Sidebar, click on **Instances** and Shutdown the **Running Apps** as below.
     ![](images/shutdownrunningapps.png)
 2. Then click **File > Shut Down** to shutdown the SageMaker Studio server and then click on **Shutdown All**. This will display **Server stopped** message.
+
     ![](images/shutdownsm.png)
+
     ![](images/shutdownall.png)
+
     ![](images/serverstopped.png)
 3. After this click on the user ``aiml-innovate-2022`` and then delete all apps. At this there should only be the ``default`` app remaining.    
     ![](images/userdetails.png)
