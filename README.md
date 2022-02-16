@@ -133,4 +133,4 @@ Follow the steps below to perform a cleanup and prevent accumulating usage charg
     ![](images/deletedomain.png)
 
 ### Survey
-Please help us to provide your feedback here. Participants who complete the surveys from AWS Innovate - AI ML Edition will receive a gift code for USD25 in AWS credits. AWS credits will be sent via email by dd Month yyyy.
+Please help us to provide your feedback [here](https://amazonmr.au1.qualtrics.com/jfe/form/SV_3fNc9oH4ql0guCq?Session=HAN4). Participants who complete the surveys from AWS Innovate Online Conference – AI/ML Edition will receive a gift code for USD25 in AWS credits. AWS credits will be sent via email by 31 March, 2022.
