@@ -1,4 +1,4 @@
-# Sentiment Analysis using BlazingText algorithm
+# Creating a multi-label classification model on SageMaker using BlazingText Algorithm
 
 >This lab is provided as part of **[AWS Innovate Machine Learning Edition](https://aws.amazon.com/events/aws-innovate/machine-learning/)**, click [here](https://github.com/roshansthomas/aws-innovate-ai-ml-2022) to explore the full list of hands-on labs
 :information_source:
